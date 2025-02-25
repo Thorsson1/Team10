@@ -1,0 +1,14 @@
+C:\Users\rebec\source\repos\øvelse2\øvelse2\bin\Debug\net9.0\øvelse2.exe
+C:\Users\rebec\source\repos\øvelse2\øvelse2\bin\Debug\net9.0\øvelse2.deps.json
+C:\Users\rebec\source\repos\øvelse2\øvelse2\bin\Debug\net9.0\øvelse2.runtimeconfig.json
+C:\Users\rebec\source\repos\øvelse2\øvelse2\bin\Debug\net9.0\øvelse2.dll
+C:\Users\rebec\source\repos\øvelse2\øvelse2\bin\Debug\net9.0\øvelse2.pdb
+C:\Users\rebec\source\repos\øvelse2\øvelse2\obj\Debug\net9.0\øvelse2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\source\repos\øvelse2\øvelse2\obj\Debug\net9.0\øvelse2.AssemblyInfoInputs.cache
+C:\Users\rebec\source\repos\øvelse2\øvelse2\obj\Debug\net9.0\øvelse2.AssemblyInfo.cs
+C:\Users\rebec\source\repos\øvelse2\øvelse2\obj\Debug\net9.0\øvelse2.csproj.CoreCompileInputs.cache
+C:\Users\rebec\source\repos\øvelse2\øvelse2\obj\Debug\net9.0\øvelse2.dll
+C:\Users\rebec\source\repos\øvelse2\øvelse2\obj\Debug\net9.0\refint\øvelse2.dll
+C:\Users\rebec\source\repos\øvelse2\øvelse2\obj\Debug\net9.0\øvelse2.pdb
+C:\Users\rebec\source\repos\øvelse2\øvelse2\obj\Debug\net9.0\øvelse2.genruntimeconfig.cache
+C:\Users\rebec\source\repos\øvelse2\øvelse2\obj\Debug\net9.0\ref\øvelse2.dll
