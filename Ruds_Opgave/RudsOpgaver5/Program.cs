@@ -16,7 +16,7 @@ namespace RudsOpgaver5
             double areal = pi * radius * radius;
             double omkreds = pi * diameter;
             Console.WriteLine($"Hvis radius af cirklen er " + radius + "cm, saa er diameter " + diameter + "cm.");
-                Console.WriteLine($"Arealet af cirklen er {Math.Ceiling(areal)}cm og omkredsen af cirklen er {Math.Ceiling(omkreds)}cm. ");
+            Console.WriteLine($"Arealet af cirklen er {Math.Ceiling(areal)}cm og omkredsen af cirklen er {Math.Ceiling(omkreds)}cm. ");
 
             Console.ReadKey();
         }
