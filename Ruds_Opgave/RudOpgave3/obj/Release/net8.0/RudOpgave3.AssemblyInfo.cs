@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RudOpgave3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92d22fd396d17ce6d57d023856c7cd4d8d1d613c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+011a06ecc1dfa864217bcc17ad38a0ec43c6deba")]
 [assembly: System.Reflection.AssemblyProductAttribute("RudOpgave3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RudOpgave3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
