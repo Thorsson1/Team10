@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hvilken dag på ugen er det?");
+            Console.WriteLine("Hvilken dag på ugen er det? (skriv et tal mellem 1-7)");
             string day = Console.ReadLine();
 
             switch (day)
