@@ -1,0 +1,15 @@
+C:\Users\cecil\Source\Repos\Team10\Ruds_Opgave\RudOpgave15\bin\Debug\net8.0\RudOpgave15.exe
+C:\Users\cecil\Source\Repos\Team10\Ruds_Opgave\RudOpgave15\bin\Debug\net8.0\RudOpgave15.deps.json
+C:\Users\cecil\Source\Repos\Team10\Ruds_Opgave\RudOpgave15\bin\Debug\net8.0\RudOpgave15.runtimeconfig.json
+C:\Users\cecil\Source\Repos\Team10\Ruds_Opgave\RudOpgave15\bin\Debug\net8.0\RudOpgave15.dll
+C:\Users\cecil\Source\Repos\Team10\Ruds_Opgave\RudOpgave15\bin\Debug\net8.0\RudOpgave15.pdb
+C:\Users\cecil\Source\Repos\Team10\Ruds_Opgave\RudOpgave15\obj\Debug\net8.0\RudOpgave15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecil\Source\Repos\Team10\Ruds_Opgave\RudOpgave15\obj\Debug\net8.0\RudOpgave15.AssemblyInfoInputs.cache
+C:\Users\cecil\Source\Repos\Team10\Ruds_Opgave\RudOpgave15\obj\Debug\net8.0\RudOpgave15.AssemblyInfo.cs
+C:\Users\cecil\Source\Repos\Team10\Ruds_Opgave\RudOpgave15\obj\Debug\net8.0\RudOpgave15.csproj.CoreCompileInputs.cache
+C:\Users\cecil\Source\Repos\Team10\Ruds_Opgave\RudOpgave15\obj\Debug\net8.0\RudOpgave15.sourcelink.json
+C:\Users\cecil\Source\Repos\Team10\Ruds_Opgave\RudOpgave15\obj\Debug\net8.0\RudOpgave15.dll
+C:\Users\cecil\Source\Repos\Team10\Ruds_Opgave\RudOpgave15\obj\Debug\net8.0\refint\RudOpgave15.dll
+C:\Users\cecil\Source\Repos\Team10\Ruds_Opgave\RudOpgave15\obj\Debug\net8.0\RudOpgave15.pdb
+C:\Users\cecil\Source\Repos\Team10\Ruds_Opgave\RudOpgave15\obj\Debug\net8.0\RudOpgave15.genruntimeconfig.cache
+C:\Users\cecil\Source\Repos\Team10\Ruds_Opgave\RudOpgave15\obj\Debug\net8.0\ref\RudOpgave15.dll
