@@ -16,13 +16,13 @@
 
             result = Multiply(x, y);
 
-            Console.WriteLine(result);
+            Console.WriteLine("Summen af de to tal er: " + result);
 
             Console.ReadKey();
         }
         static double Multiply(double x, double y)
         {
-            double z = x * y;
+            double z = x + y;
             return z;
         }
     }
