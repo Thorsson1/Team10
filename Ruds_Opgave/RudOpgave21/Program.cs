@@ -9,7 +9,7 @@
             double cylinderHeight = 5;
             double pi = 3.1415926535897931;
             Console.WriteLine("Kubens areal er: " + KubeUdregning(cubeSide));
-            Console.WriteLine("Cylinderens areal er: " + CylinderUdregning(cylinderRadius, cylinderHeight, pi));
+            Console.WriteLine("Cylinderens areal er: " + Math.Ceiling(CylinderUdregning(cylinderRadius, cylinderHeight, pi)));
             Console.ReadKey();
         }
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RudOpgave16")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5c954d08d34601266d5e802fc9e9a6b7a0726b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5665ff64ce5f567718beb521f95d7a342d78e620")]
 [assembly: System.Reflection.AssemblyProductAttribute("RudOpgave16")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RudOpgave16")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

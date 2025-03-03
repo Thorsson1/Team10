@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RudsOpgaver5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7a637a2f175f67f66f01fb095317f403ef85ea8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5665ff64ce5f567718beb521f95d7a342d78e620")]
 [assembly: System.Reflection.AssemblyProductAttribute("RudsOpgaver5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RudsOpgaver5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
